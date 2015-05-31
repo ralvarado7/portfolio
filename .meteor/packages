@@ -11,3 +11,4 @@ twbs:bootstrap
 underscore
 less
 iron:router
+jquery
